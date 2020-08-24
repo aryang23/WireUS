@@ -1,4 +1,6 @@
 // By Aryan Grover(@aryang23)
+//https://codezen.codingninjas.com/practice/466/323/print-like-a-wave
+
 
 //Wave Print
 #include<iostream>
